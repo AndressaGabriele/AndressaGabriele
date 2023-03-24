@@ -7,4 +7,4 @@
 - 🐾 Mãe de duas meninas 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressaGabriele)](https://github.com/AndressaGabriele/github-readme-stats)
+[![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=AndressaGabriele)](https://github.com/AndressaGabriele/github-readme-stats)

@@ -4,7 +4,7 @@
 ### Mood Cliche 
 - 🔭 Front End
 - ♉ Taurina em niveis elevados
-- 🐾 Mãe de duas meninas 
+- 🐾 🐶 Mãe de duas meninas 🐾🐶
 - 🐶 Apaixonada por Dogs
 
 ### 🖥 Tecnologias 

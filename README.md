@@ -12,23 +12,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
 
-## Experiences
+
+# Experiences
 
 1. Criação de landing page para cadastro e confirmação de evento beotang y colacril;
 
-## Os Resultados
-
-- Liberdade para projetar os formulários, resultando em uma experiência intuitiva para os usuários
-- Satisfação com a reprodução do design original
-- Capacidade de resposta móvel e desktop
-- Cabeçalhos HTTP Seguros
-- Limite de taxa contra ataques de força bruta
-- Higienização de dados contra Injeção de Consulta NOSQL
-- Prevenção de poluição por parâmetros/consulta
-
-## Tecnologia
+### Tecnologias utilizadas
 
 - Frontend
   - React

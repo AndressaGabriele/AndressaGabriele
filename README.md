@@ -12,8 +12,8 @@ Sou uma desenvolvedora Full-Stack apaixonada por criar aplicações web e móvei
 - ☕ Viciada em momentos de tranquilidade
 
 ### Interesses
-- 🎮 Jogadora casual de videogame, especialmente RPGs e jogos indie
-- 🎧 Aficionada por música, especialmente rock e sertanejo
+- 🎮 Jogadora casual de videogame, especialmente The Sims, Call of Duty
+- - 🎧 Aficionada por música, especialmente rock e sertanejo
 - 🍳 Exploradora da culinária, sempre em busca de novas receitas para experimentar
 - 🌍 Viajante ávida, buscando explorar novos lugares e culturas
 

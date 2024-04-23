@@ -32,7 +32,6 @@ Sou uma desenvolvedora Full-Stack apaixonada por criar aplicações web e móvei
 ### Desenvolvimento Front-End
 ![React.js](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Angular](https://skillicons.dev/icons?i=angular)
 ![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Typescript](https://skillicons.dev/icons?i=ts)
 
@@ -45,7 +44,7 @@ Sou uma desenvolvedora Full-Stack apaixonada por criar aplicações web e móvei
 
 ### Testes e Qualidade de Software
 ![Cypress](https://skillicons.dev/icons?i=cypress)
-![Jest](https://skillicons.dev/icons?i=jest)
+
 
 ## 📫 Entre em Contato
 

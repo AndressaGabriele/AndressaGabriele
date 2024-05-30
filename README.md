@@ -57,6 +57,6 @@ Sou uma desenvolvedora Front-End apaixonada por criar aplicações web e móveis
 
 ## 📫 Entre em Contato:
 
-- Email: andressa.chagas79@gmail.com
-- [Linkedin de Andressa Gabriele](https://www.linkedin.com/in/andressa-gabriele/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-gabriele/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andressa.chagas79@gmail.com)
 

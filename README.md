@@ -1,55 +1,62 @@
 # Olá! Eu sou Andressa Gabriele das Chagas Santos 👋
-Sou uma desenvolvedora Full-Stack apaixonada por criar aplicações web e móveis incríveis! Estou sempre buscando aprender e crescer no mundo da tecnologia.
+Sou uma desenvolvedora Front-End apaixonada por criar aplicações web e móveis incríveis! Estou sempre buscando aprender e crescer no mundo da tecnologia.
 
 ![Dog developer](https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif)
 
 ## Mood Clichê 🌈
 
-### Sobre Mim
+### Sobre Mim:
+
 - 🌼 Taurina apaixonada pela vida e entusiasta da tecnologia
 - 🐶 Amante incondicional de cães e defensora dos animais
 - 🌱 Aprendiz constante em busca de crescimento pessoal e profissional
 - ☕ Viciada em momentos de tranquilidade
 
-### Interesses
+### Interesses:
+
 - 🎮 Jogadora casual de videogame, especialmente The Sims, Call of Duty
-- 🎧 Aficionada por música, especialmente rock e sertanejo
+- 🎧 Aficionada por música, especialmente pagode e sertanejo
 - 🍳 Exploradora da culinária, sempre em busca de novas receitas para experimentar
 - 🌍 Viajante ávida, buscando explorar novos lugares e culturas
 
-### Mantras
+### Mantras:
+
 - 🌟 "Acredite em si mesmo e em seu potencial ilimitado."
 - 🌈 "Espalhe bondade e amor por onde quer que vá."
 - 🌱 "A vida é uma jornada de aprendizado constante."
 
-### Curiosidades
+### Curiosidades:
+
 - 🚀 Sonhadora
 - 📷 Amadora na fotografia, capturando momentos e paisagens que a inspiram
 - 🌟 Crente na magia do universo e no poder da manifestação positiva          
 
-## 🚀 Algumas Habilidades e Conhecimentos
+## 🚀 Tech's:
 
-### Desenvolvimento Front-End
-![React.js](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vue.js](https://skillicons.dev/icons?i=vue)
-![Typescript](https://skillicons.dev/icons?i=ts)
+<p align="center">
+  <h3>Desenvolvimento Front-End</h1> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind" />
+  </a>
+</p>
+
+<p align="center">
+  <h3>Desenvolvimento Back-End</h1> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs" />
+  </a>
+</p>
+
+<p align="center">
+  <h3>Testes e Qualidade de Software</h1> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,jest" />
+  </a>
+</p>
 
 
-### Desenvolvimento Back-End
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
+## 📫 Entre em Contato:
 
-### Testes e Qualidade de Software
-![Cypress](https://skillicons.dev/icons?i=cypress)
-
-
-## 📫 Entre em Contato
-
-- São Bernardo do Campo, SP
-- Tel: (11) 97482-1115
 - Email: andressa.chagas79@gmail.com
 - [Linkedin de Andressa Gabriele](https://www.linkedin.com/in/andressa-gabriele/)
 
